@@ -25,6 +25,18 @@ img{
     width: 150px;
 }
 
+h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
 .products{
     display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.product{
+    background-color: grey;
+    margin-left: 20px;
 }
