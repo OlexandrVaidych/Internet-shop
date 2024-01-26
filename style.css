@@ -1,3 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+
 img{
     height: 100px;
     width: 150px;
