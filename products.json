@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "imgs/kross.jpg",
+      "name": "Sneakers1",
+      "price": 3000
+    },
+    {
+      "id": 2,
+      "image": "imgs/kros2.jpeg",
+      "name": "Sneakers2",
+      "price": 4000
+    },
+    {
+      "id": 3,
+      "image": "imgs/kros3.jpg",
+      "name": "Sneakers3",
+      "price": 2000
+    }
+  ]
+}
