@@ -12,8 +12,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 const productInfo = `
                     <img src="${product.image}" alt="${product.name}">
-                    <h3>${product.name}</h3>
-                    <p><strong>Price:</strong> $${product.price.toFixed(2)}</p>
+                    <div class="product-item__info">
+                        <h3>${product.name}</h3>
+                        <p><strong>${product.price.toFixed(2)}</strong> $</p>
+                    </div>
                 `;
 
                 productDiv.innerHTML = productInfo;

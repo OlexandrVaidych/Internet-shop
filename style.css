@@ -39,4 +39,17 @@ h2{
 .product{
     background-color: grey;
     margin-left: 20px;
+    height: 160px;
+}
+
+.product-item__info{
+    text-align: center;
+}
+
+.product h3{
+    margin-top: 5px;
+}
+
+.product p{
+    margin-top: 5px;
 }
